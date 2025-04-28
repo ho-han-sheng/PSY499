@@ -1,5 +1,12 @@
 # PSY499
- Repository for PSY499: Capstone Psychology Project
+
+Repository for PSY499: Capstone Psychology Project
+
+Measures:
+
+- International Positive and Negative Affect Schedule Short Form (I-PANAS-SF; Thompson, 2007)
+- 120-item International Personality Item Pool NEO Personality Inventory (IPIP-NEO-120; Johnson, 2014)
+- Emotion Reactivity Scale (ERS; Nock et al., 2008)
 
 |     Measure    |             Tag            |                           Description                          |                 Type                 |               Example              |
 |----------------|----------------------------|----------------------------------------------------------------|--------------------------------------|------------------------------------|
@@ -214,3 +221,27 @@
 | IPIP-NEO-120   | IPIP-O6-2                  | Believe that there is no absolute right or wrong               | (Forward-coded) Single integer value | 1                                  |
 | IPIP-NEO-120   | IPIP-O6-3                  | Tend to vote for conservative political candidates             | (Reverse-coded) Single integer value | 1                                  |
 | IPIP-NEO-120   | IPIP-O6-4                  | Believe that we should be tough on crime                       | (Reverse-coded) Single integer value | 1                                  |
+| ERS            | ERS-1                      | When something happens that upsets me, it's all I can think about it for a long time   | Single integer value                 | 2                                  |
+| ERS            | ERS-2                      | My feelings get hurt easily                                                            | Single integer value                 | 2                                  |
+| ERS            | ERS-3                      | When I experience emotions, I feel them very strongly/intensely                        | Single integer value                 | 2                                  |
+| ERS            | ERS-4                      | When I'm emotionally upset, my whole body gets physically upset as well                | Single integer value                 | 2                                  |
+| ERS            | ERS-5                      | I tend to get very emotional very easily                                               | Single integer value                 | 2                                  |
+| ERS            | ERS-6                      | I experience emotions very strongly                                                    | Single integer value                 | 2                                  |
+| ERS            | ERS-7                      | I often feel extremely anxious                                                         | Single integer value                 | 2                                  |
+| ERS            | ERS-8                      | When I feel emotional, it's hard for me to imagine feeling any other way               | Single integer value                 | 2                                  |
+| ERS            | ERS-9                      | Even the littlest things make me emotional                                             | Single integer value                 | 2                                  |
+| ERS            | ERS-10                     | If I have a disagreement with someone, it takes a long time for me to get   over it    | Single integer value                 | 2                                  |
+| ERS            | ERS-11                     | When I am angry/upset, it takes me much longer than most people to calm   down         | Single integer value                 | 2                                  |
+| ERS            | ERS-12                     | I get angry at people very easily                                                      | Single integer value                 | 2                                  |
+| ERS            | ERS-13                     | I am often bothered by things that other people don't react to                         | Single integer value                 | 2                                  |
+| ERS            | ERS-14                     | I am easily agitated                                                                   | Single integer value                 | 2                                  |
+| ERS            | ERS-15                     | My emotions go from neutral to extreme in an instant                                   | Single integer value                 | 2                                  |
+| ERS            | ERS-16                     | People tell me I have a very short fuse                                                | Single integer value                 | 2                                  |
+| ERS            | ERS-17                     | People tell me that my emotions are often too intense for the situation                | Single integer value                 | 2                                  |
+| ERS            | ERS-18                     | I am a very sensitive person                                                           | Single integer value                 | 2                                  |
+| ERS            | ERS-19                     | My moods are very strong and powerful                                                  | Single integer value                 | 2                                  |
+| ERS            | ERS-20                     | I often get so upset it's hard for me to think straight                                | Single integer value                 | 2                                  |
+| ERS            | ERS-21                     | Other people tell me I'm overreacting                                                  | Single integer value                 | 2                                  |
+| ERS            | ERS-SENS                   | Sensitivity subscale                                                                   | Single float value                   | 1.7                                |
+| ERS            | ERS-ARIN                   | Arousal/ Intensity subscale                                                            | Single float value                   | 1.7                                |
+| ERS            | ERS-PERS                   | Persistence subscale                                                                   | Single float value                   | 1.7                                |
