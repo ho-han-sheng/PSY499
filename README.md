@@ -2,8 +2,13 @@
  Repository for PSY499: Capstone Psychology Project
 
 |     Measure    |             Tag            |                           Description                          |                 Type                 |               Example              |
-|:--------------:|:--------------------------:|:--------------------------------------------------------------:|:------------------------------------:|:----------------------------------:|
+|----------------|----------------------------|----------------------------------------------------------------|--------------------------------------|------------------------------------|
 | Participant ID | PID                        | Nonidentifiable generated participant id                       | String                               | P209                               |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
 | I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
 | I-PANAS-SF     | T-NA                       | Trait negative affect                                          | Single float value                   | 10                                 |
 | History        | TBI                        | Traumatic brain injury                                         | Binary yes/no                        | 0                                  |
