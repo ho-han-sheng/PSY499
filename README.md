@@ -4,13 +4,18 @@
 |     Measure    |             Tag            |                           Description                          |                 Type                 |               Example              |
 |----------------|----------------------------|----------------------------------------------------------------|--------------------------------------|------------------------------------|
 | Participant ID | PID                        | Nonidentifiable generated participant id                       | String                               | P209                               |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 6                                  |
-| I-PANAS-SF     | T-NA                       | Trait negative affect                                          | Single float value                   | 10                                 |
+| I-PANAS-SF     | T-PA                       | Trait positive affect                                          | Single float value                   | 4.7                                |
+| I-PANAS-SF     | T-PA-1                     | Active                                                         | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-PA-2                     | Alert                                                          | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-PA-3                     | Attentive                                                      | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-PA-4                     | Determined                                                     | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-PA-5                     | Inspired                                                       | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-NA                       | Trait negative affect                                          | Single float value                   | 4.7                                |
+| I-PANAS-SF     | T-NA-1                     | Afraid                                                         | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-NA-2                     | Ashamed                                                        | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-NA-3                     | Hostile                                                        | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-NA-4                     | Nervous                                                        | Single integer value                 | 2                                  |
+| I-PANAS-SF     | T-NA-5                     | Upset                                                          | Single integer value                 | 2                                  |
 | History        | TBI                        | Traumatic brain injury                                         | Binary yes/no                        | 0                                  |
 | History        | DEP                        | Any depressive disorder                                        | Binary yes/no                        | 1                                  |
 | History        | ANX                        | Any anxiety disorder                                           | Binary yes/no                        | 1                                  |
