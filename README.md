@@ -245,3 +245,5 @@ Measures:
 | ERS            | ERS-SENS                   | Sensitivity subscale                                                                   | Single float value                   | 1.7                                |
 | ERS            | ERS-ARIN                   | Arousal/ Intensity subscale                                                            | Single float value                   | 1.7                                |
 | ERS            | ERS-PERS                   | Persistence subscale                                                                   | Single float value                   | 1.7                                |
+| PsychoPy            | lt                    | Left trigger responses                                                                 | Intensive time-series                | See example-psychopy_lt_rt_log.csv file             |
+| PsychoPy            | rt                    | Right trigger responses                                                                | Intensive time-series                | See example-psychopy_lt_rt_log.csv file             |
